@@ -1,1 +1,1 @@
-![CodeForces Profile](https://cf.leed.at?id=red6855).
+![CodeForces Profile](https://cf.leed.at?id=red6855)
