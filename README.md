@@ -20,6 +20,3 @@
 [![wakatime](https://wakatime.com/badge/user/d5bed420-0b8f-4ff8-be13-4d8c4ca12459.svg)](https://wakatime.com/@d5bed420-0b8f-4ff8-be13-4d8c4ca12459)  <a href="https://www.instagram.com/implementation.24k?igsh=MWk0enN0YmlzMTM5dg%3D%3D&utm_source=qr"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">  <a href="https://www.discord.com/users/432406936831393804"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white">
 
 ![CodeForces Profile](https://cf.leed.at?id=red6855)  ![Atcoder Profile](https://atcoder-badge.kro.kr?id=red6855)
-
-![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=red6855)  <img src="http://mazandi.herokuapp.com/api?handle=red6855&theme=dark"/>
