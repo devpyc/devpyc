@@ -1,3 +1,5 @@
+<div align="center">
+  
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Welcome+to+YECHAN+World!!)](https://git.io/typing-svg)
 
 
@@ -31,3 +33,5 @@
 
 
 <a href="https://yechan1209.tistory.com/"><img src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white">  <a href="https://yechan6855.notion.site/c58b918683e149ed9671cffbfdb4bbaa?pvs=4"><img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white">  <a href="https://www.discord.com/users/432406936831393804"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white">  <a href="https://www.instagram.com/implementation.24k?igsh=MWk0enN0YmlzMTM5dg%3D%3D&utm_source=qr"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
+
+</div>
