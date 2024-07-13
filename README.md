@@ -1,6 +1,6 @@
 <div align="center">
   
-[![header](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Welcome+to+YECHAN+World!!)](https://git.io/typing-svg)
+[![header](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Welcome+to+PARK+YECHAN+Github+World!!)](https://git.io/typing-svg)
 
 
 ### 📋 Languages & FrameWorks
