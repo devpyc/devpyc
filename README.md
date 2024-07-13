@@ -26,7 +26,6 @@
 ### 🧑‍💻 Competitive Programming
 ![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)  ![CodeChef](https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white)  ![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)
 
-![Atcoder Profile](https://atcoder-badge.kro.kr?id=red6855)
 
 ### 🥅 Other
 [![wakatime](https://wakatime.com/badge/user/d5bed420-0b8f-4ff8-be13-4d8c4ca12459.svg)](https://wakatime.com/@d5bed420-0b8f-4ff8-be13-4d8c4ca12459)  ![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
