@@ -26,7 +26,7 @@
 ![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)  ![CodeChef](https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white)  ![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)
 
 ### 🏆 Award
-2019 Design Competition For the Youth - 제품 디자인 특선
+2019 Design Competition For the Youth - 특선
 
 2022 IT On Productivity contest - 군인부 2위
 
