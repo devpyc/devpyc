@@ -32,7 +32,7 @@ Korea Design Exhibition Award Youth - Special Grade
 
 
 ### 🥅 Other
-![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yechan6855&show_icons=true&theme=radical)
 
 
 <a href="https://yechan1209.tistory.com/"><img src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white">  <a href="https://yechan6855.notion.site/c58b918683e149ed9671cffbfdb4bbaa?pvs=4"><img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white">  <a href="https://www.discord.com/users/432406936831393804"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white">  <a href="https://www.instagram.com/implementation.24k?igsh=MWk0enN0YmlzMTM5dg%3D%3D&utm_source=qr"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
