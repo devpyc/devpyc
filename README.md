@@ -22,6 +22,8 @@
 ### 🎓 Problem Solving
 <img src="https://img.shields.io/static/v1?label=&message=BOJ&color=blue">  <img src="https://img.shields.io/badge/Solved.AC-%7B%EB%B1%83%EC%A7%80%EC%83%89%EA%B9%94%7D?style=flat-square">  <img src="https://img.shields.io/badge/SWEA-1428A0?style=flat-square"> 
 
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=red6855)](https://solved.ac/red6855)
+
 [![코드트리|실력진단-red6855](https://banner.codetree.ai/v1/banner/red6855)](https://www.codetree.ai/profiles/red6855)
 
 ### 🧑‍💻 Competitive Programming
