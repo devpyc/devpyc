@@ -23,9 +23,9 @@
 ### 🎓 Problem Solving
 <img src="https://img.shields.io/static/v1?label=&message=BOJ&color=blue">  <img src="https://img.shields.io/badge/Solved.AC-%7B%EB%B1%83%EC%A7%80%EC%83%89%EA%B9%94%7D?style=flat-square">  <img src="https://img.shields.io/badge/SWEA-1428A0?style=flat-square"> 
 
-<img src="https://solvedac-cards-starcea.paring.moe/profile/red6855?color=light">
-
 [![코드트리|실력진단-red6855](https://banner.codetree.ai/v1/banner/red6855)](https://www.codetree.ai/profiles/red6855)
+
+<img src="https://solvedac-cards-starcea.paring.moe/problems/red6855?color=light"> <img src="https://solvedac-cards-starcea.paring.moe/tags/red6855?color=light&top=true&text=true">
 
 ![hyp3rflow's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=red6855)
 
