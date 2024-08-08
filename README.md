@@ -35,7 +35,7 @@
 ### 🏆 Award
 Korea Design Exhibition Award Youth - Special Grade
 
-2022 IT On Productivity contest - 군인부 2위
+2022 IT On Productivity contest - 2nd Grade
 
 
 ### 🥅 Other
