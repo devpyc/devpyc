@@ -29,15 +29,15 @@
 
 
 ### Award
-2019 Korea Design Exhibition Award - Special Grade
 
-2019 Skilled Worker Award - Grand Prize
+| Award                               | Prize               |
+| ----------------------------------- | ------------------- |
+| 2019 Korea Design Exhibition        | Special Grade       |
+| 2019 Skilled Worker Award           | Grand Prize         |
+| 2022 IT On Productivity contest     | Silver Medal        |
+| 2024 Ulsan College Start-up contest | 3rd Prize           |
+| 2024 AI Powered Resume Contest      | Silver Award Winner |
 
-2022 IT On Productivity contest - Silver Medal
-
-2024 Ulsan College Start-up contest - 3rd Prize
-
-2024 AI Powered Resume Contest - Silver Award Winner
 
 
 ### Other
