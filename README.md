@@ -19,7 +19,7 @@
 |Laptop|Mobile|Desktop|
 |------|---|---|
 |MacBook Pro 14|iPhone 15 Pro|i9-9900k|
-|2024 Gram 16|iPad Air 10th|GTX Titan X|
+|2023 Gram 16|iPad Air 10th|GTX Titan X|
 
 ### Problem Solving
 <img src="https://img.shields.io/static/v1?label=&message=BOJ&color=blue">  <img src="https://img.shields.io/badge/Solved.AC-%7B%EB%B1%83%EC%A7%80%EC%83%89%EA%B9%94%7D?style=flat-square">  <img src="https://img.shields.io/badge/SWEA-1428A0?style=flat-square"> 
