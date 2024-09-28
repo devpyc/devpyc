@@ -32,10 +32,10 @@
 
 | Award                               | Prize               |
 | ----------------------------------- | ------------------- |
-| Information Skills Competition      | Grand Prize         |
+| 2019 IT On Productivity contest     | Gold Prize          |
 | 2019 Korea Design Exhibition        | Special Grade       |
 | 2019 Skilled Worker Award           | Grand Prize         |
-| 2022 IT On Productivity contest     | Silver Medal        |
+| 2022 IT On Productivity contest     | Silver Prize        |
 | 2024 Ulsan College Start-up contest | 3rd Prize           |
 | 2024 AI Powered Resume Contest      | Silver Award Winner |
 
