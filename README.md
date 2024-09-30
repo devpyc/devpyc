@@ -19,10 +19,10 @@
 |Laptop|Mobile|Desktop|
 |------|---|---|
 |MacBook Pro 14|iPhone 15 Pro|i9-9900k|
-|2023 Gram 16|iPad Air 10th|GTX Titan X|
+|2023 Gram 16| |GTX Titan X|
 
 ### Problem Solving
-<img src="https://img.shields.io/static/v1?label=&message=BOJ&color=blue">  <img src="https://img.shields.io/badge/Solved.AC-%7B%EB%B1%83%EC%A7%80%EC%83%89%EA%B9%94%7D?style=flat-square">  <img src="https://img.shields.io/badge/SWEA-1428A0?style=flat-square"> 
+![hyp3rflow's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=red6855)
 
 ### Competitive Programming
 ![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)  ![CodeChef](https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white)  ![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)
