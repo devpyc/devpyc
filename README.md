@@ -25,7 +25,7 @@
 ![hyp3rflow's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=red6855)
 
 ### Competitive Programming
-![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)  ![CodeChef](https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white)  ![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)
+[![CodeForces Profile](https://cf.leed.at?id=khanhhoa_nntan_4)](https://codeforces.com/profile/khanhhoa_nntan_4)
 
 
 ### Award
