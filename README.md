@@ -37,7 +37,7 @@
 | 2019 Skilled Worker Award           | Grand Prize         |
 | 2022 IT On Productivity contest     | Silver Prize        |
 | 2024 Ulsan College Start-up contest | 3rd Prize           |
-| 2024 AI Powered Resume Contest      | Silver Award Winner |
+| 2024 UC Resume Contest      | Silver Award Winner |
 
 
 
