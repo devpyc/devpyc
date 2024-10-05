@@ -22,9 +22,6 @@
 ### Problem Solving
 ![hyp3rflow's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=red6855)
 
-### Competitive Programming
-[![CodeForces Profile](https://cf.leed.at?id=khanhhoa_nntan_4)](https://codeforces.com/profile/khanhhoa_nntan_4)
-
 
 ### Award
 
