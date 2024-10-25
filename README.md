@@ -19,9 +19,6 @@
 |MacBook Pro 14|iPhone 15 Pro|i9-9900k|
 |2023 Gram 16|iPhone XS|GTX Titan X|
 
-### Problem Solving
-![hyp3rflow's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=red6855)
-
 
 ### Award
 
