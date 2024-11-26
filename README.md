@@ -17,7 +17,8 @@
 | | |GTX Titan X|
 
 ### Problem Solving
-![hyp3rflow's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=red6855)
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=red6855)](https://solved.ac/red6855)
 
 ### Competitive Programming
 [![CodeForces Profile](https://cf.leed.at?id=khanhhoa_nntan_4)](https://codeforces.com/profile/khanhhoa_nntan_4)
