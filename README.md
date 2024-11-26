@@ -9,9 +9,7 @@
 
 ### Problem Solving
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=red6855)](https://solved.ac/red6855)  <img src="https://solvedac-cards-starcea.paring.moe/tags/red6855">
-
-![mazandi profile](http://mazandi.herokuapp.com/api?handle=red6855&theme=dark)  <img src="https://solvedac-cards-starcea.paring.moe/problems/red6855">
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=red6855)](https://solved.ac/red6855)
 
 ### Competitive programming
 [![CodeForces Profile](https://cf.leed.at?id=khanhhoa_nntan_4)](https://codeforces.com/profile/khanhhoa_nntan_4)
