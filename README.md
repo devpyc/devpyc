@@ -14,8 +14,6 @@
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=red6855)](https://solved.ac/red6855)
 
 ### Competitive programming
-[![CodeForces Profile](https://cf.leed.at?id=khanhhoa_nntan_4)](https://codeforces.com/profile/khanhhoa_nntan_4)
-
 [![CodeForces Profile](https://cf.leed.at?id=iridescent24k)](https://codeforces.com/profile/iridescent24k)
 
 [![Atcoder Profile](https://atcoder-badge.kro.kr?id=red6855)](https://atcoder.jp/users/red6855)
