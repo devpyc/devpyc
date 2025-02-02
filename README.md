@@ -14,6 +14,4 @@
 ### Competitive programming
 [![CodeForces Profile](https://cf.leed.at?id=KongSoonE)](https://codeforces.com/profile/KongSoonE)
 
-[![Atcoder Profile](https://atcoder-badge.kro.kr?id=red6855)](https://atcoder.jp/users/red6855)
-
 </div>
