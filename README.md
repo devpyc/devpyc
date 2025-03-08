@@ -7,4 +7,7 @@
 
 ### FrameWorks
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)  ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) 
+
+### Codeforces
+[![CodeForces Profile](https://cf.leed.at?id=KongSoonE)](https://codeforces.com/profile/KongSoonE)
 </div>
