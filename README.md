@@ -10,7 +10,7 @@
 ### Frameworks
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)  ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) 
 
-### CP
-![Codeforces](https://badges.riever.dev/codeforces/kongsoone.svg)  ![AtCoder](https://badges.riever.dev/atcoder/red6855.svg)
+
+![Codeforces](https://badges.riever.dev/codeforces/kongsoone.svg)  ![AtCoder](https://badges.riever.dev/atcoder/red6855.svg)  <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=red6855">
 
 </div>
