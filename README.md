@@ -18,11 +18,11 @@
   <tr>
     <td align="center" width="50%">
       <h3>📈 Codeforces Rating</h3>
-      <img src="https://github.com/user-attachments/assets/d6b3c5b7-7615-4631-8bc9-145c26084fb1" alt="jsum01's GitHub Stats" height="180px"/>
+      <img src="https://github.com/user-attachments/assets/d6b3c5b7-7615-4631-8bc9-145c26084fb1" alt="jsum01's GitHub Stats" height="2000px"/>
     </td>
     <td align="center" width="50%">
       <h3>📊 Top Languages</h3>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dpeyvc&layout=compact&theme=radical" alt="Top Langs" height="180px"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dpeyvc&layout=compact&theme=radical" alt="Top Langs" height="2000px"/>
     </td>
   </tr>
 </table>
