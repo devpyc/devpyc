@@ -13,12 +13,11 @@
     </td>
   </tr>
 </table>
-
 <table>
   <tr>
     <td align="center" width="50%">
-      <h3>📊 dpeyvc's Github stat</h3>
-      <img src="https://github-readme-stats.vercel.app/api?username=dpeyvc&show_icons=true&theme=radical" alt="dpeyvc's GitHub Stats" height="240px"/>
+      <h3>📊 dpeyvc's Github Stat</h3>
+      <img src="https://github-readme-stats.vercel.app/api?username=dpeyvc&show_icons=true&theme=radical">
     </td>
     <td align="center" width="50%">
       <h3>📊 Top Languages</h3>
@@ -26,6 +25,15 @@
     </td>
   </tr>
 </table>
+
+
+Tech Stack
+---
+  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+  <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
+  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white">
+  <img src="ttps://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white">
 
 Projects
 ---
@@ -40,7 +48,6 @@ Prize
 - 2024 혁신융합대학사업 Co-Show **차세대통신사업단장상**
 - 2024 ICT통신&바이오헬스 청년 아이디어 해커톤 **대상**
 - 기술창업집중훈련 FLOW **한국연구재단이사장상**
-
 
 Stats
 ---
