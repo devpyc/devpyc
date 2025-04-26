@@ -17,7 +17,7 @@
   <tr>
     <td align="center" width="50%">
       <h3>📊 dpeyvc's Github Stat</h3>
-      <img src="https://github-readme-stats.vercel.app/api?username=dpeyvc&show_icons=true&theme=radical">
+      <img src="https://github-readme-stats.vercel.app/api?username=dpeyvc&show_icons=true&theme=radical" alt="dpeyvc's github stat's" height="240px"/>
     </td>
     <td align="center" width="50%">
       <h3>📊 Top Languages</h3>
