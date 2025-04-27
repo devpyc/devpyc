@@ -40,7 +40,7 @@ Stats
 ---
 <img src="https://wakatime.com/badge/user/febdc7b5-6e61-46a8-b3da-11c46c3c5f89.svg">  ![Codeforces](https://badges.riever.dev/codeforces/kongsoone.svg)
 
-Othes
+Others
 ---
 <img src="https://github-profile-trophy.vercel.app/?username=dpeyvc&theme=flat&column=7">
 
