@@ -7,7 +7,8 @@
     </td>
     <td>
       <h2>✨ About Me</h2>  
-      <p>👨‍💻 Software Developer | 🌐 University of Ulsan </p>
+      <p>👨‍💻 Software Developer | 🌐 University of Ulsan | <img width="71" alt="image" src="https://github.com/user-attachments/assets/d17227b7-c562-4971-8fbe-12de7fc149ce" align="center"/>
+</p>
       <p>💡 I’m interested in Machine Learning, cross platform development, and model optimization </p>
       <p>🧠 I enjoy problem solving and competitive programming in C++ </p>
     </td>
