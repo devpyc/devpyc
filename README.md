@@ -23,11 +23,6 @@ Tech Stack
   <img src="ttps://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white">
   <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white">
 
-Projects
----
-- **Safe Steps** with **ReactNative**, **FastAPI**, **Tensorflow**, **TensorflowJS**
-- **Pet-i App** with **Flutter**, **Tensorflow**, **ONNX Runtime**, **Objective-C**
-- **심장이 뛰니까, 두근두근** with **PyTorch**, **Flutter**
 
 Prize
 ---
