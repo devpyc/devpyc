@@ -8,8 +8,7 @@
       <h2>✨ About Me</h2>  
       <p>👨‍💻 Software Developer | 🌐 University of Ulsan | <img src="https://devse.kr/devse_badge.svg" align="center"> <img src="https://devse.kr/division_badge.svg" align="center">
 </p>
-      <p>💡 I’m interested in Machine Learning, cross platform development, and optimization </p>
-      <p>🧠 I enjoy problem solving and competitive programming in C++ </p>
+      <p>💡 I’m interested in Problem Solving, Machine Learning </p>
       <p>🧑🏻‍💻 2025 AWS x Codetree Programming Contest Finalist</p>
     </td>
   </tr>
