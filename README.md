@@ -10,6 +10,7 @@
 </p>
       <p>💡 I’m interested in Machine Learning, cross platform development, and optimization </p>
       <p>🧠 I enjoy problem solving and competitive programming in C++ </p>
+      <p>🧑🏻‍💻 2025 AWS x Codetree Programming Contest Finalist</p>
     </td>
   </tr>
 </table>
