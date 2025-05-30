@@ -1,7 +1,4 @@
 <div style="text-align : center;">
-<a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/lines/dpeyvc?pet-id=1" width="1000" height="120"/>
-</a>
 <table>
   <tr>
     <td> 
@@ -28,6 +25,13 @@ Tech Stack
 Stats
 ---
 <img src="https://wakatime.com/badge/user/febdc7b5-6e61-46a8-b3da-11c46c3c5f89.svg">
+
+Cute
+---
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/farms/dpeyvc"/>
+</a>
+
 
 Others
 ---
