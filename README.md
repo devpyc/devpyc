@@ -39,10 +39,10 @@ Cute
 
 <a href="https://www.gitanimals.org/">
       <img
-        src="https://render.gitanimals.org/guilds/717922061158579216/draw" 
+        src="https://render.gitanimals.org/guilds/717922061158579216/draw"
         width="600"
         height="300"
         alt="gitanimals"
       />
-</a>
+    </a>
 </div>
