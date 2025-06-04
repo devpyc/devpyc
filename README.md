@@ -26,6 +26,11 @@ Stats
 ---
 <img src="https://wakatime.com/badge/user/febdc7b5-6e61-46a8-b3da-11c46c3c5f89.svg">
 
+Others
+---
+<img src="https://github-profile-trophy.vercel.app/?username=dpeyvc&theme=flat&column=7">
+
+
 Cute
 ---
 <a href="https://github.com/devxb/gitanimals">
@@ -39,10 +44,5 @@ Cute
         alt="gitanimals"
       />
 </a>
-
-
-Others
----
-<img src="https://github-profile-trophy.vercel.app/?username=dpeyvc&theme=flat&column=7">
 
 </div>
