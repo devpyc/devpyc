@@ -38,10 +38,6 @@ Others
 
 Cute
 ---
-<a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/farms/dpeyvc"/>
-</a>
-
 <a href="https://www.gitanimals.org/">
       <img
         src="https://render.gitanimals.org/guilds/717922061158579216/draw"
