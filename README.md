@@ -10,7 +10,6 @@
 </p>
       <p>💡 I’m interested in Problem Solving, Competitive Programming. </p>
       <p>🧑🏻‍💻 2025 AWS x Codetree Programming Contest Finalist</p>
-      <p><img src="https://solvedac-cards-starcea.paring.moe/profile/red6855"></p>
     </td>
   </tr>
 </table>
