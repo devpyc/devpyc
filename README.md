@@ -31,6 +31,9 @@ Stats
 ---
 <img src="https://wakatime.com/badge/user/febdc7b5-6e61-46a8-b3da-11c46c3c5f89.svg">
 
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=red6855)](https://solved.ac/red6855)
+
 Others
 ---
 <img src="https://github-profile-trophy.vercel.app/?username=dpeyvc&theme=flat&column=7">
