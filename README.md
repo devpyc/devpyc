@@ -10,6 +10,7 @@
 </p>
       <p>💡 I’m interested in Problem Solving, Competitive Programming. </p>
       <p>🧑🏻‍💻 2025 AWS x Codetree Programming Contest Finalist</p>
+      <p><img src="https://solvedac-cards-starcea.paring.moe/profile/red6855"></p>
     </td>
   </tr>
 </table>
@@ -29,9 +30,7 @@ Tech Stack
 
 Stats
 ---
-<img src="https://wakatime.com/badge/user/febdc7b5-6e61-46a8-b3da-11c46c3c5f89.svg">
-
-![hyp3rflow's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=red6855)
+<div><img src="https://wakatime.com/badge/user/febdc7b5-6e61-46a8-b3da-11c46c3c5f89.svg"></div>
 
 Others
 ---
