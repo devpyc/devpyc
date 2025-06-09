@@ -10,7 +10,6 @@
 </p>
       <p>💡 I’m interested in Problem Solving, Competitive Programming. </p>
       <p>🧑🏻‍💻 2025 AWS x Codetree Programming Contest Finalist</p>
-      <p><img src="https://badges.riever.dev/codeforces/kongsoone.svg">  <img src="https://wakatime.com/badge/user/febdc7b5-6e61-46a8-b3da-11c46c3c5f89.svg"></p>
     </td>
   </tr>
 </table>
@@ -34,7 +33,7 @@ Stats
 
 Others
 ---
-
+<img src="https://badges.riever.dev/codeforces/kongsoone.svg">  <img src="https://wakatime.com/badge/user/febdc7b5-6e61-46a8-b3da-11c46c3c5f89.svg">
 
 Cute
 ---
