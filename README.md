@@ -29,13 +29,13 @@ Tech Stack
 
 Stats
 ---
-[![trophy](https://github-profile-trophy.vercel.app/?username=devpyc&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+<img src="https://github-profile-trophy.vercel.app/?username=devpyc&row=1&theme=darkhub&title=-Stars,-Issues,-Reviews">
 
 Others
 ---
 <img src="https://badges.riever.dev/codeforces/kongsoone.svg">  <img src="https://wakatime.com/badge/user/febdc7b5-6e61-46a8-b3da-11c46c3c5f89.svg">
 
-Cute
+Crew
 ---
 <a href="https://www.gitanimals.org/">
       <img
