@@ -9,7 +9,7 @@
       <p>👨‍💻 Software Developer | <img src="https://devse.kr/university_of_ulsan.svg" align="center"> | <img src="https://devse.kr/devse_badge.svg" align="center"> <img src="https://devse.kr/division_badge.svg" align="center">
 </p>
       <p>💡 I’m interested in Problem Solving, Competitive Programming. </p>
-      <p>🧑🏻‍💻 2025 AWS x Codetree Programming Contest Finalist</p>
+      <p>🏆 2025 AWS x Codetree Programming Contest Finalist</p>
     </td>
   </tr>
 </table>
