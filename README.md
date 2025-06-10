@@ -29,7 +29,7 @@ Tech Stack
 
 Stats
 ---
-<img src="https://github-profile-trophy.vercel.app/?username=dpeyvc&theme=flat&column=7">
+[![trophy](https://github-profile-trophy.vercel.app/?username=devpyc&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 Others
 ---
