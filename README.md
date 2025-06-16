@@ -1,18 +1,13 @@
-<div style="text-align : center;">
-<table>
-  <tr>
-    <td> 
-      <img src="https://github.com/user-attachments/assets/8cb1c130-00d5-4090-b103-f7159217e55e" alt="Profile Image" width="250">
-    </td>
-    <td>
-      <h2>✨ About Me</h2>  
-      <p>👨‍💻 Software Developer | <img src="https://devse.kr/university_of_ulsan.svg" align="center"> | <img src="https://devse.kr/devse_badge.svg" align="center"> <img src="https://devse.kr/division_badge.svg" align="center">
+<div align="center" text-align="left">
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=%EB%82%98%3F+%EB%B0%95%EC%98%88%EC%B0%AC" alt="Typing SVG" /></a>
+</div>
+
+<div>
+<p>👨‍💻 Software Developer | <img src="https://devse.kr/university_of_ulsan.svg" align="center"> | <img src="https://devse.kr/devse_badge.svg" align="center"> <img src="https://devse.kr/division_badge.svg" align="center">
 </p>
-      <p>- I’m interested in Problem Solving, Competitive Programming. </p>
-      <p>- 2025 AWS x Codetree Programming Contest Finalist</p>
-    </td>
-  </tr>
-</table>
+<p>- I’m interested in Problem Solving, Competitive Programming. </p>
+<p>- 2025 AWS x Codetree Programming Contest Finalist</p>
 
 Tech Stack
 ---
@@ -45,4 +40,5 @@ Crew
         alt="gitanimals"
       />
     </a>
+
 </div>
