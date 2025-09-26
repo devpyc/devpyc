@@ -1,7 +1,10 @@
-
+Yechan Park
+---
+Hello, I'm Developer Park Yechan(devpyc)
+As a software developer, I enjoy problem-solving and exploring new ideas.
 
 <div>
-<p>👨‍💻 Software Developer | <img src="https://devse.kr/university_of_ulsan.svg" align="center"> | <img src="https://devse.kr/devse_badge.svg" align="center"> <img src="https://devse.kr/division_badge.svg" align="center">
+<p><img src="https://devse.kr/university_of_ulsan.svg" align="center"> | <img src="https://devse.kr/devse_badge.svg" align="center"> | <img src="https://devse.kr/division_badge.svg" align="center">
 </p>
 
 Tech Stack
