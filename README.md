@@ -1,6 +1,6 @@
-Devpyc
+Devpyc(Developer Park Yechan)
 ---
-Hello, I'm Developer Park Yechan(devpyc)
+Hello, I'm Yechan Park.
 As a software developer, I enjoy problem-solving and exploring new ideas.
 
 <div>
