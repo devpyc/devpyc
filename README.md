@@ -1,7 +1,4 @@
-<div align="center" text-align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello,+there!+I'm+Devpyc+)](https://git.io/typing-svg)
-</div>
 
 <div>
 <p>👨‍💻 Software Developer | <img src="https://devse.kr/university_of_ulsan.svg" align="center"> | <img src="https://devse.kr/devse_badge.svg" align="center"> <img src="https://devse.kr/division_badge.svg" align="center">
@@ -16,6 +13,18 @@ Tech Stack
   <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white">
   <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=flat&logo=nginx&logoColor=white">
 
+Award
+---
+- `Dec 2022` 16th KPC I-Top Competition Bronze Prize 🥇
+- `Sep 2024` Enterprise Cover Resume Contest Silver Prize 🥈
+- `nov 2024` 2024 NCCOSS Contest Award Communication Business Unit Director Prize
+- `Dec 2024` ICT & Biohealth Youth Idea Hackathon Gold Pize 🥇
+- `Feb 2025 `Start-Up Intensive Traning Program FLOW(Focus Learning for Opportunity Window) Bronze Prize 🥇
+
+Activity
+---
+- `May 2025` AWS x Codetree Programming Contest Final 53th
+- `Aug 2025` Samsung Collegiate Programming Challenge Algorithm Final
 
 Stats
 ---
@@ -24,7 +33,7 @@ Stats
 Others
 ---
 <img src="https://wakatime.com/badge/user/febdc7b5-6e61-46a8-b3da-11c46c3c5f89.svg">
-<!-- <img src="https://badges.riever.dev/codeforces/kongsoone.svg"> <img src="https://badges.riever.dev/atcoder/red6855.svg"> -->
+<img src="https://badges.riever.dev/codeforces/kongsoone.svg"> <img src="https://badges.riever.dev/atcoder/red6855.svg">
 
 Crew
 ---
