@@ -23,7 +23,7 @@ Award
 
 Activity
 ---
-- `May 2025` AWS x Codetree Programming Contest Final 53th
+- `May 2025` AWS x Codetree Programming Contest Final **53th**
 - `Aug 2025` Samsung Collegiate Programming Challenge Algorithm Final
 
 Stats
