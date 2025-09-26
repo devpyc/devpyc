@@ -1,4 +1,4 @@
-Yechan Park
+Devpyc
 ---
 Hello, I'm Developer Park Yechan(devpyc)
 As a software developer, I enjoy problem-solving and exploring new ideas.
