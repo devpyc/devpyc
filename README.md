@@ -20,9 +20,9 @@ Award
 ---
 - `Dec 2022` 16th KPC I-Top Competition Bronze Prize 🥇
 - `Sep 2024` Enterprise Cover Resume Contest Silver Prize 🥈
-- `nov 2024` 2024 NCCOSS Contest Award Communication Business Unit Director Prize
+- `nov 2024` 2024 NCCOSS Contest Award Communication Business Unit Director Prize 🥇
 - `Dec 2024` ICT & Biohealth Youth Idea Hackathon Gold Pize 🥇
-- `Feb 2025 `Start-Up Intensive Traning Program FLOW(Focus Learning for Opportunity Window) Bronze Prize 🥇
+- `Feb 2025 `Start-Up Intensive Traning Program FLOW(Focus Learning for Opportunity Window) Bronze Prize 🥉
 
 Activity
 ---
