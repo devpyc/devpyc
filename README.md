@@ -18,7 +18,7 @@ Tech Stack
 
 Award
 ---
-- `Dec 2022` 16th KPC I-Top Competition Bronze Prize 🥇
+- `Dec 2022` 16th Korea Productivity Center I-Top Competition Bronze Prize 🥇
 - `Sep 2024` Enterprise Cover Resume Contest Silver Prize 🥈
 - `nov 2024` 2024 NCCOSS Contest Award Communication Business Unit Director Prize 🥇
 - `Dec 2024` ICT & Biohealth Youth Idea Hackathon Gold Pize 🥇
