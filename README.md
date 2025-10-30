@@ -30,14 +30,14 @@ Activity
 - `May 2025` AWS x Codetree Programming Contest Final **53th**
 - `Aug 2025` Samsung Collegiate Programming Challenge Algorithm Final
 
-Stats
+PS
 ---
-<img src="https://github-profile-trophy.vercel.app/?username=devpyc&row=1&theme=darkhub&title=-Stars,-Issues,-Reviews">
+
 
 Others
 ---
 <img src="https://wakatime.com/badge/user/febdc7b5-6e61-46a8-b3da-11c46c3c5f89.svg">
-<img src="https://badges.riever.dev/codeforces/kongsoone.svg"> <img src="https://badges.riever.dev/atcoder/red6855.svg">
+<img src="https://badges.riever.dev/codeforces/kongsoone.svg"> <img src="https://badges.riever.dev/codeforces/ucist_fubao.svg"> <img src="https://badges.riever.dev/atcoder/red6855.svg">
 
 Crew
 ---
