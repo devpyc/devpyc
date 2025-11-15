@@ -33,7 +33,7 @@ Activity
 
 PS Repository
 ---
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=devpyc&repo=PYC-Baekjoon&theme=dark" href="https://github.com/devpyc/PYC-Baekjoon">
+![https://github-readme-stats.vercel.app/api/pin/?username=devpyc&repo=PYC-Baekjoon&theme=dark](https://github.com/devpyc/PYC-Baekjoon)
 
 Others
 ---
