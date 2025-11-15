@@ -31,8 +31,9 @@ Activity
 - `May 2025` AWS x Codetree Programming Contest Final **53th**
 - `Aug 2025` Samsung Collegiate Programming Challenge Algorithm Final
 
-PS
+PS Repository
 ---
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=devpyc&repo=PYC-Baekjoon&theme=dark">
 
 Others
 ---
