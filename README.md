@@ -1,7 +1,7 @@
 Devpyc(Developer Park Yechan)
 ---
 Hello, I'm Yechan Park.
-As a software developer, I enjoy problem-solving and exploring new ideas.
+As a software developer, I'm interested in DSA.
 
 <div>
 <!-- <p><img src="https://devse.kr/university_of_ulsan.svg" align="center"> | <img src="https://devse.kr/devse_badge.svg" align="center"> | <img src="https://devse.kr/division_badge.svg" align="center">
