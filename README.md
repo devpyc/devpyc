@@ -33,7 +33,7 @@ Activity
 
 PS Repository
 ---
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=devpyc&repo=PYC-Baekjoon&theme=dark)](https://github.com/devpyc/PYC-Baekjoon)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=devpyc&repo=Problem-solving&theme=dark)](https://github.com/devpyc/Problem-Solving)
 
 Others
 ---
