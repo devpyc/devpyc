@@ -24,6 +24,7 @@ Award
 - `nov 2024` 2024 NCCOSS Contest Award Communication Business Unit Director Prize 🥇
 - `Dec 2024` ICT & Biohealth Youth Idea Hackathon Gold Pize 🥇
 - `Feb 2025 `Start-Up Intensive Traning Program FLOW(Focus Learning for Opportunity Window) Bronze Prize 🥉
+- `Dec 2025` 2025 AI and Big Data–Driven Industry-Focused Idea Contest Exellent Prize 🥉
 
 Activity
 ---
