@@ -19,12 +19,12 @@ Tech Stack
 
 Award
 ---
-- `Dec 2022` 16th Korea Productivity Center I-Top Competition Bronze Prize 🥉
-- `Sep 2024` Enterprise Cover Resume Contest Silver Prize 🥈
-- `nov 2024` 2024 NCCOSS Contest Award Communication Business Unit Director Prize 🥇
-- `Dec 2024` ICT & Biohealth Youth Idea Hackathon Gold Pize 🥇
-- `Feb 2025 `Start-Up Intensive Traning Program FLOW(Focus Learning for Opportunity Window) Bronze Prize 🥉
-- `Dec 2025` 2025 AI and Big Data–Driven Industry-Focused Idea Contest Exellent Prize 🥉
+- `Dec 2022` 16th Korea Productivity Center I-Top Competition **Bronze Prize** 🥉
+- `Sep 2024` Enterprise Cover Resume Contest **Silver Prize** 🥈
+- `nov 2024` 2024 NCCOSS Contest Award **Communication Business Unit Director Prize** 🥇
+- `Dec 2024` ICT & Biohealth Youth Idea Hackathon **Gold Pize** 🥇
+- `Feb 2025 `Start-Up Intensive Traning Program FLOW(Focus Learning for Opportunity Window) **Bronze Prize** 🥉
+- `Dec 2025` 2025 AI and Big Data–Driven Industry-Focused Idea Contest **Exellent Prize** 🥉
 
 Activity
 ---
