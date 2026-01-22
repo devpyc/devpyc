@@ -28,7 +28,6 @@ Award
 
 Activity
 ---
-- `Aug 2024` Korea Aerospace University Programming Contest **9th**
 - `May 2025` AWS x Codetree Programming Contest Final **53th**
 - `Aug 2025` Samsung Collegiate Programming Cup Final
 
