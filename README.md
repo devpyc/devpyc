@@ -31,13 +31,14 @@ Activity
 - `May 2025` AWS x Codetree Programming Contest Final **53th**
 - `Aug 2025` Samsung Collegiate Programming Cup Final
 
-PS Repository
+Organization
 ---
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=devpyc&repo=Problem-solving&theme=dark)](https://github.com/devpyc/Problem-Solving)
+<img src="https://wiki.devse.kr/university_of_ulsan.svg" align="center">
+<img src="http://wiki.devse.kr/devse_badge.svg" align="center">
+<img src="http://wiki.devse.kr/division_badge.svg" align="center">
 
 Others
 ---
-<img src="https://wakatime.com/badge/user/febdc7b5-6e61-46a8-b3da-11c46c3c5f89.svg">
 <!-- <img src="https://badges.riever.dev/codeforces/kongsoone.svg"> <img src="https://badges.riever.dev/atcoder/red6855.svg"> -->
 
 Crew
