@@ -39,7 +39,7 @@ Organization
 
 Others
 ---
-<img src="https://badges.riever.dev/codeforces/kongsoone.svg">
+[![CodeForces Profile](https://cf.leed.at?id=Eikthyr)](https://codeforces.com/profile/Eikthyr)
 
 Crew
 ---
