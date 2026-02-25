@@ -39,7 +39,7 @@ Organization
 
 Others
 ---
-<img src="https://badges.riever.dev/codeforces/kongsoone.svg"> <img src="https://badges.riever.dev/atcoder/red6855.svg">
+<img src="https://badges.riever.dev/codeforces/kongsoone.svg">
 
 Crew
 ---
