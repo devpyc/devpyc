@@ -39,7 +39,7 @@ Organization
 
 Others
 ---
-[![CodeForces Profile](https://cf.leed.at?id=Eikthyr)](https://codeforces.com/profile/Eikthyr)
+[![Git Ranker](https://www.git-ranker.com/api/v1/badges/U_kgDOCCBiyQ)](https://www.git-ranker.com/ko/users/devpyc)
 
 Crew
 ---
