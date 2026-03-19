@@ -1,4 +1,4 @@
-Devpyc(Developer Park Yechan)
+Devpyc(Developer Park YeChan)
 ---
 Hello, I'm Yechan Park.
 As a software developer, I'm interested in DSA.
