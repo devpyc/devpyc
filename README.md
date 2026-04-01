@@ -39,7 +39,7 @@ Organization
 
 Others
 ---
-[![Git Ranker](https://www.git-ranker.com/api/v1/badges/U_kgDOCCBiyQ)](https://www.git-ranker.com/ko/users/devpyc)
+<span><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=red6855"> <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ulsanking"></span>
 
 Crew
 ---
