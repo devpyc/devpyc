@@ -40,6 +40,8 @@ Organization
 Others
 ---
 
+<img src="https://badges.riever.dev/codeforces/kongsoone.svg"> <img src="https://badges.riever.dev/atcoder/red6855.svg">
+
 Crew
 ---
 <a href="https://www.gitanimals.org/">
