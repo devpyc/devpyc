@@ -31,6 +31,7 @@ Activity
 - `May 2025` AWS x Codetree Programming Contest Final **53th**
 - `Aug 2025` Samsung Collegiate Programming Cup Final
 
+
 Organization
 ---
 <img src="https://wiki.devse.kr/university_of_ulsan.svg" align="center">
