@@ -25,6 +25,7 @@ Award
 - `Dec 2024` ICT & Biohealth Youth Idea Hackathon **Gold Pize** 🥇
 - `Feb 2025 `Start-Up Intensive Traning Program FLOW(Focus Learning for Opportunity Window) **Bronze Prize** 🥉
 - `Dec 2025` 2025 AI and Big Data–Driven Industry-Focused Idea Contest **Exellent Prize** 🥉
+- `May 2026` 2026 UOU Robot OS & Physical AI Challenge **2nd Prize** 🥈
 
 Activity
 ---
