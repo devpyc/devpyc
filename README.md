@@ -27,7 +27,7 @@ Award
 - `Dec 2025` 2025 AI and Big Data–Driven Industry-Focused Idea Contest **Exellent Prize** 🥉
 - `May 2026` 2026 UOU Robot OS & Physical AI Challenge **2nd Prize** 🥈
 
-Activity
+Competitive Programming
 ---
 - `May 2025` AWS x Codetree Programming Contest Final **53th**
 - `Aug 2025` Samsung Collegiate Programming Cup Final
