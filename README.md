@@ -28,13 +28,17 @@ Award
 
 Competitive Programming
 ---
-- `May 2025` AWS x Codetree Programming Contest Final **53th**
+- `May 2025` AWS x Codetree Programming Contest Final 
+ 
+   <img width="375" height="250" alt="image" src="https://github.com/user-attachments/assets/6922c2af-4c36-4041-bb86-64ee3925568a" />
+
 - `Aug 2025` Samsung Collegiate Programming Cup Final
+- `Aug 2026` ~~AWS x Codetree Programming Contest Final~~ (acute appendicitis 😢)
+  
 
 
 Organization
 ---
-<img src="https://wiki.devse.kr/university_of_ulsan.svg" align="center">
 <img src="http://wiki.devse.kr/devse_badge.svg" align="center">
 <img src="http://wiki.devse.kr/division_badge.svg" align="center">
 
