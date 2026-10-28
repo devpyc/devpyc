@@ -33,7 +33,7 @@ Competitive Programming
    <img width="375" height="250" alt="image" src="https://github.com/user-attachments/assets/6922c2af-4c36-4041-bb86-64ee3925568a" />
 
 - `Aug 2025` Samsung Collegiate Programming Cup Final
-- `Aug 2026` ~~AWS x Codetree Programming Contest Final~~ (acute appendicitis 😢)
+- `Aug 2026` ~~AWS x Codetree Programming Contest Final~~
   
 
 
@@ -45,7 +45,6 @@ Organization
 Others
 ---
 
-<img src="https://badges.riever.dev/codeforces/kongsoone.svg"> <img src="https://badges.riever.dev/atcoder/red6855.svg">
 
 Crew
 ---
