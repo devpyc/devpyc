@@ -44,7 +44,6 @@ Organization
 
 Others
 ---
-<img src="https://badges.riever.dev/codeforces/kongsoone.svg"> <img src="https://badges.riever.dev/atcoder/red6855.svg">
 
 <img width="2000" height="1200" alt="BOJ memory - ulsanking" src="https://github.com/user-attachments/assets/487bdfaf-7454-4b97-af5d-32c1ebf2f5f4" />
 
